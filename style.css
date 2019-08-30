@@ -1,0 +1,72 @@
+{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	 
+}
+body{
+	background-color: #eeeeee; 
+	font-family:  sans-serif;
+}
+strong{
+	border-top:  2px solid black;
+	border-bottom:  2px solid black;
+}
+.tm-head{
+	max-width: 1200px;
+	text-decoration: inline;
+	text-align: left;
+ 
+}
+.tm-nam{
+	padding: 10px;
+	text-align: left;
+	text-decoration: inherit;	
+
+}
+.tm-head img{
+	padding-top: 10px;
+	float: right;
+	margin-left: 50%;
+}
+.tm-obj{
+	border-top: 2px solid black;
+	text-align: left;
+	text-decoration: inherit;	
+}
+
+
+.tm-exp{
+	border-top: 2px solid black;
+	text-align: left;
+	text-decoration: initial;	
+}
+.tm-edu{
+	border-top: 2px solid black;
+	text-align: left;
+	text-decoration: initial;	
+}
+.tm-ski{
+	border-top: 2px solid black;
+	text-align: left;
+	text-decoration: initial;	
+}
+.tm-ref{
+	border-top: 2px solid black;
+	text-align: left;
+	text-decoration: initial;	
+}
+
+
+
+
+
+
+/*div{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+
+}*/*
+
+
